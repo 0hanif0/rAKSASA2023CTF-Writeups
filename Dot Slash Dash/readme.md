@@ -26,4 +26,4 @@ Just decode using this [Base32](https://cryptii.com/pipes/base32)
 
 ### Flag
 
-WSCTF{M0RSE_C0DE_G0ES_TUNUNU}
+`WSCTF{M0RSE_C0DE_G0ES_TUNUNU}`
