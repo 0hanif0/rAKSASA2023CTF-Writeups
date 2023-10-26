@@ -35,5 +35,10 @@
       - Intro from facebook [Dennis Keynes](https://www.facebook.com/profile.php?id=100087770467522)
       - ![image](https://github.com/0hanif0/rAKSASA2023CTF-Writeups/assets/23289982/34746ce6-410b-4c9a-be24-cc0fb87414e8)
 
-9. Osint flag
-### Flag
+9. Osint Flag
+      - Open facebook [Ambre Ocampo](https://www.facebook.com/ambreocampo)
+      - Look at the intro, there is a link
+      - Using [wayback machine](https://web.archive.org/) to see history of the web
+      - You will get QR code, scan the QR code and get a link
+      - You need to use Tor Browser to open the link given in QR code
+      - 
